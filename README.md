@@ -3,8 +3,8 @@
 
 <h3 align="left">Stats:</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhar&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkhar&layout=compact&theme=darcula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhar&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkhar&layout=compact&theme=ambient_gradient)
 
 - 🌱 I’m currently learning **Python**
 
