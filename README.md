@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Nika</h1>
 <h3 align="left">A passionate frontend developer from Georgia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkkhar" alt="nkkhar" /></a> </p>
+<h3 align="left">Stats:</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhar&show_icons=true&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkhar&layout=compact&theme=darcula)
 
 - 🌱 I’m currently learning **Python**
 
