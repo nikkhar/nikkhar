@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h1 align="left">Hi 👋, I'm Nika</h1>
+<h3 align="left">A passionate frontend developer from Georgia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkkhar" alt="nkkhar" /></a> </p>
 
