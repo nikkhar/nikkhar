@@ -3,6 +3,7 @@
 
 <h3 align="left">Stats:</h3>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkhar&show_icons=true&theme=darcula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkhar&layout=compact&theme=darcula)
 
 - 🌱 I’m currently learning **Python**
